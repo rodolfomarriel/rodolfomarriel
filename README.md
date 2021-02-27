@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-rodolfo.29r@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodolfo.29r@gmail.com)](mailto:rodolfo.29r@gmail.com)
 
 
-💻 Atualmente trabalho com Java
+💻 Atualmente trabalho com Java<br>
 📚 Estudando Spring Framework
 
 <!--
