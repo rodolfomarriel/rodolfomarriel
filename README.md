@@ -11,7 +11,7 @@
 
 
 🎓 Graduado em Ciência da Computação - UEZO<br>
-💻 Atualmente trabalho com Java<br>
+💻 Atualmente trabalho com Java e JavaScript<br>
 📚 Estudando Spring Framework
 
 <!--
