@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-rodolfo.29r@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodolfo.29r@gmail.com)](mailto:rodolfo.29r@gmail.com)
 
 
-🎓 Graduado em Ciência da Computação - UEZO
+🎓 Graduado em Ciência da Computação - UEZO<br>
 💻 Atualmente trabalho com Java<br>
 📚 Estudando Spring Framework
 
