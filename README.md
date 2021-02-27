@@ -1,4 +1,4 @@
-### Oie! Sou Rodolfo 👋
+### Oi! Sou Rodolfo 👋
 
 💻 Analista de Sistemas   📍Rio de Janeiro
 
