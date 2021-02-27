@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Oie! Sou Rodolfo 👋
 
 💻 Analista de Sistemas   📍Rio de Janeiro
