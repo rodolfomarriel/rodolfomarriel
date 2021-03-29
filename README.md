@@ -1,6 +1,6 @@
 ### Oi! Sou Rodolfo 👋
 
-💻 Analista de Sistemas   📍Rio de Janeiro
+💻 Analista de Sistemas<br />📍Rio de Janeiro
 
 ### Encontre-me por aqui
 
