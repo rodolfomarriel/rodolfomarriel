@@ -1,6 +1,6 @@
 ### Oi! Sou Rodolfo 👋
 
-💻 Analista de Sistemas<br />📍Rio de Janeiro
+💻 Desenvolvedor Back-End<br />📍Rio de Janeiro
 
 ### Encontre-me por aqui
 
@@ -10,7 +10,7 @@
 
 🎓 Graduado em Ciência da Computação - UEZO<br>
 💻 Atualmente trabalho com Java e JavaScript<br>
-📚 Estudando Spring Framework
+📚 Estudando Arquitetura de Software
 
 <!--
 **rodolfomarriel/rodolfomarriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
