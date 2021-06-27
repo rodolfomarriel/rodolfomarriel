@@ -1,6 +1,6 @@
-### Oi! Sou Rodolfo 👋
+### Oi! Sou Rodolfo &nbsp;👋
 
-💻 Desenvolvedor Back-End<br />📍Rio de Janeiro
+💻 &nbsp;Desenvolvedor Back-End<br />📍&nbsp;Rio de Janeiro
 
 ### Encontre-me por aqui
 
@@ -8,9 +8,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-rodolfo.29r@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodolfo.29r@gmail.com)](mailto:rodolfo.29r@gmail.com)
 
 
-🎓 Graduado em Ciência da Computação - UEZO<br>
-💻 Atualmente trabalho com Java<br>
-📚 Estudando Arquitetura de Software
+🎓&nbsp; Graduado em Ciência da Computação - UEZO<br>
+💻&nbsp; Atualmente trabalho com Java<br>
+📚 &nbsp;Estudando Arquitetura de Software
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
