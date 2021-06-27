@@ -1,6 +1,6 @@
 ### Oi! Sou Rodolfo &nbsp;👋
 
-💻 &nbsp;Desenvolvedor Back-End<br />📍&nbsp;Rio de Janeiro
+💻 &nbsp;Desenvolvedor Back-End<br />📍&nbsp;&nbsp;Rio de Janeiro
 
 ### Encontre-me por aqui
 
