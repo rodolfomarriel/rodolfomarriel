@@ -10,7 +10,6 @@
 
 🎓&nbsp; Graduado em Ciência da Computação - UEZO<br>
 💻&nbsp; Atualmente trabalho com Java<br>
-📚 &nbsp;Estudando Kotlin
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
